@@ -4,6 +4,7 @@ My nickname is BAITOEY**
 
 # April 8 - Assignments
 ## Quick Navigation
+
 | module | Documentation | Source Data |
 | :--- | :--- | :--- |
 | 1.2 Identify Relational and Non-Relational Databases | [View Lab 1.2.7](./Lab1.2.7.md) | AdventureWorks2019 |
