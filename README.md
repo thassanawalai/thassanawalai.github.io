@@ -2,6 +2,8 @@
 **Hello my name is Thassanawalai manusayanont
 My nickname is BAITOEY**
 
+![Welcome](./ImageData/Pig.png)
+
 # April 8 - Assignments
 ## Quick Navigation
 
