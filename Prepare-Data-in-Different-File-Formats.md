@@ -22,10 +22,6 @@
 
 ---
 
-## My Implementation (Code Snippets)
-
-จากการทำแลป ผมได้ทดลองตรวจสอบและจำลองโครงสร้างไฟล์เพื่อความเข้าใจที่ลึกซึ้งขึ้น:
-
 ### การตรวจสอบโครงสร้าง CSV (Delimiter Identification)
 ```text
 EmployeeID,FullName,Department,Salary
