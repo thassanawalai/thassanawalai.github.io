@@ -9,8 +9,8 @@ My nickname is BAITOEY**
 
 | module | Documentation | Source Data |
 | :--- | :--- | :--- |
-| 1.2 Identify Relational and Non-Relational Databases | [View Lab 1.2.7](./Navigate-Database-Design) | AdventureWorks2019 |
-| 5.1 Identify Different File Formats | [View Lab 05.1.4](./Prepare-Data-in-Different-File-Formats) | Multi-format Files |
+| 1.2 Identify Relational and Non-Relational Databases | [View Lab 1.2.7 Navigate-Database-Design](./Navigate-Database-Design) | AdventureWorks2019 |
+| 5.1 Identify Different File Formats | [View Lab 05.1.4 Prepare-Data-in-Different-File-Formats](./Prepare-Data-in-Different-File-Formats) | Multi-format Files |
 
 ---
 
