@@ -17,7 +17,7 @@
 | **5.1** Identify Different File Formats | 📖 [View Lab 05.1.4 Prepare-Data-in-Different-File-Formats](./Prepare-Data-in-Different-File-Formats) | `Multi-format Files` |
 
 ### 🚀 Featured Project
-* 🔍 [View Project: Accident Decoder Project](./AccidentDecoderProject)
+* 🔍 [View Project: Accident Decoder Project](./AccidentDecoderProject/)
 
 ---
 
