@@ -6,12 +6,14 @@
 ## The Mission: Steps to Discovery
 
 ### 1. Decoding Delimited File Formats
+![SQL Server Management Studio (SSMS)](./ImageData/lab5.jpg)
 ขั้นตอนสำคัญคือการแยกแยะไฟล์แบบ "มีตัวคั่น" (Delimited) ซึ่งเป็นรูปแบบมาตรฐานในการ Export ข้อมูลจากระบบต่างๆ เราได้เรียนรู้วิธีการระบุตัวคั่นประเภทต่างๆ เช่น:
 - **Comma (CSV):** รูปแบบที่นิยมที่สุดสำหรับการทำตารางข้อมูล
 - **Tabs / Semicolons / Pipes (|):** ตัวคั่นทางเลือกที่ช่วยลดปัญหาเมื่อข้อมูลในฟิลด์มีเครื่องหมายคอมมาปนอยู่
 > **Insight:** การระบุ Delimiter ผิดเพียงจุดเดียว อาจทำให้การ Import ข้อมูลผิดพลาดหรือโครงสร้างข้อมูลบิดเบี้ยว (Misaligned)
 
 ### 2. Inspecting JSON Structures
+![SQL Server Management Studio (SSMS)](./ImageData/lab4.jpg)
 เราได้เจาะลึกไฟล์ **JSON (JavaScript Object Notation)** ซึ่งเป็นหัวใจของการแลกเปลี่ยนข้อมูลในยุคปัจจุบัน โดยเน้นไปที่ 3 คุณสมบัติหลัก:
 - การเก็บข้อมูลแบบ **Name/Value pairs** ที่อ่านง่ายทั้งคนและเครื่อง
 - การใช้ **Commas** แยกชุดข้อมูล และ **Square brackets** สำหรับเก็บ Arrays
