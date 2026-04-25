@@ -4,10 +4,10 @@
 ---
 
 ##  The Mission: Steps to Discovery
-
+![SQL Server Management Studio (SSMS)](./ImageData/lab1.jpg)
 ### 1. Connecting to the Source
 ขั้นตอนแรกคือการสร้างสะพานระหว่างเครื่องมือกับแหล่งข้อมูล เราใช้ **SQL Server Management Studio (SSMS)** ในการเชื่อมต่อเข้ากับ Database Server ซึ่งเป็นทักษะพื้นฐานที่สำคัญที่สุดของ Data Admin
-
+![SQL Server Management Studio (SSMS)](./ImageData/lab2.jpg)
 ### 2. Navigating the Data Map (Tables)
 เราทำการเจาะลึกเข้าไปในรายการตาราง (Tables) ต่างๆ เพื่อดูโครงสร้างการเก็บข้อมูลจริง เช่น:
 - การแยกประเภทข้อมูลตาม Schema (เช่น `Sales`, `HumanResources`, `Production`)
@@ -19,7 +19,7 @@
 - **Varchar/Nvarchar:** สำหรับการเก็บข้อความและรายละเอียด
 - **DateTime:** สำหรับการบันทึกเวลาที่เกิดขึ้นจริง
 > **Insight:** การเลือก Data Type ที่ถูกต้องส่งผลโดยตรงต่อ Performance ของการ Query และความถูกต้องของข้อมูล
-
+![SQL Server Management Studio (SSMS)](./ImageData/lab3.jpg)
 ### 4. Exploring the Shortcuts (Views)
 นอกเหนือจากตารางดิบ เราได้สำรวจ **Views** ซึ่งเป็น "ตารางเสมือน" ที่ระบบสร้างขึ้นจากการรวมข้อมูล (Join) หลายๆ ตารางเข้าด้วยกัน เพื่อให้ง่ายต่อการนำไปใช้งานต่อ โดยไม่ต้องเขียน Query ที่ซับซ้อนทุกครั้ง
 
