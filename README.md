@@ -2,6 +2,7 @@
 
 > **Hello! My name is Thassanawalai Manusayanont.**
 > **My nickname is BAITOEY.** 👩🏻‍💻✨
+> * 🔍 [View Project Presentation: ](.Presentation-Final)
 
 ![Welcome](./ImageData/Pig.png)
 
