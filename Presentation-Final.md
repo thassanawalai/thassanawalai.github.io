@@ -9,6 +9,8 @@
 
 ![Do you know who i am](./ImageData/Pig.png)
 
+ทัศนาวลัย มานุษยานนท์
+
 ---
 
 # 🔄 My Application of Agile Frameworks
