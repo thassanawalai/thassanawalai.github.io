@@ -343,20 +343,12 @@
 - ระดับการรับรู้ = **Power Law** ($y = L \cdot S^n$)
 - ข้อมูลต้องอยู่ **ในหน้าจอเดียวกัน**
 
-**ในชาร์ต:**
-- **4 Quadrants** มองในทันที:
-  - ✓ ขวาบน = High Volume + High Fatality
-  - ✓ ขวาล่าง = High Volume + Low Fatality  
-  - ✓ ซ้ายบน = Low Volume + High Fatality ⚠️
-  - ✓ ซ้ายล่าง = Low Volume + Low Fatality
-
----
 
 ### **Spotlighting (เน้นจุดสำคัญ)**
 
 **เมื่อต้องเจาะลึก:**
 - ไฮไลต์จังหวัดเสี่ยง (สีแดง)
-- จังหวัดอื่น → สีเทา
+- จังหวัดอื่น → สีเบาๆ
 
 ---
 
@@ -380,6 +372,7 @@
 🔵 “ปริมาณอุบัติเหตุ (Accident Volume)”
 กับ
 🔴 “ความรุนแรงของอุบัติเหตุ (Fatality Rate %)”
+
 ![Scatter Plot Dashboard: Volume vs. Fatality Analysis](./ImageData/Scatter_Plot_Dashboard.png)
 ❌ ปัญหาหลัก “ไม่ใช่จำนวนอุบัติเหตุ”
 ✅ แต่คือ “ความรุนแรงของอุบัติเหตุ”
@@ -418,8 +411,8 @@
 |---|---------|---------|---------|-----------|
 | **ขวาบน** | H.Vol + H.Fatal | ปัญหา BIG & HARD | -(ไม่มี) | ติดตาม |
 | **ขวาล่าง** | H.Vol + L.Fatal | ปัญหา BIG & SOFT | กรุงเทพฯ | Awareness |
-| **ซ้ายบน** | L.Vol + H.Fatal | ปัญหา SMALL & HARD ⚠️ | สุรินทร์ | **จัดสรรงบ!** |
-| **ซ้ายล่าง** | L.Vol + L.Fatal | ปัญหา SMALL & SOFT | เชียงใหม่ | Monitor |
+| **ซ้ายบน** | L.Vol + H.Fatal | ปัญหา SMALL & HARD ⚠️ | สุรินทร์ | **จัดสรรงบเพิ่ม!** |
+| **ซ้ายล่าง** | L.Vol + L.Fatal | ปัญหา SMALL & SOFT | เชียงใหม่ | The Safe Zone |
 
 ---
 
