@@ -377,9 +377,12 @@
 ## *"Volume vs. Fatality" Scatter Plot*
 
 ---
-
+🔵 “ปริมาณอุบัติเหตุ (Accident Volume)”
+กับ
+🔴 “ความรุนแรงของอุบัติเหตุ (Fatality Rate %)”
 ![Scatter Plot Dashboard: Volume vs. Fatality Analysis](./ImageData/Scatter_Plot_Dashboard.png)
-
+❌ ปัญหาหลัก “ไม่ใช่จำนวนอุบัติเหตุ”
+✅ แต่คือ “ความรุนแรงของอุบัติเหตุ”
 ---
 
 ### **Data Mapping มีความหมายอย่างไร?**
